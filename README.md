@@ -31,6 +31,11 @@
 | Koa2中文学习资料 | https://chenshenhai.github.io/koa2-note/note/static/middleware.html | 学习资料
 | PHP中文网 | http://www.phpstudy.net/ | 前后端相关教程 |
 
+### 知识平台
+- [并发编程网](http://ifeve.com/)
+- [掘金](https://juejin.im/)
+- [InfoQ](http://www.infoq.com/cn/)
+- [leetcode](https://leetcode-cn.com/)
 
 ### 性能优化
 - [webpack性能优化1](https://zhuanlan.zhihu.com/p/27710902)
