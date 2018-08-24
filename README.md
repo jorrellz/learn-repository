@@ -11,6 +11,48 @@
 - [Linux快速入门](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
 - [Linux常用命令](https://mp.weixin.qq.com/s/FcJESM780b-vpwI7t7Twyg)
 
+### DevOps工具
+
+- 代码管理（SCM）：GitHub、GitLab、BitBucket、SubVersion
+
+- 构建工具：Ant、Gradle、maven
+
+- 自动部署：Capistrano、CodeDeploy
+
+- 持续集成（CI）：Bamboo、Hudson、Jenkins
+
+- 配置管理：Ansible、Chef、Puppet、SaltStack、ScriptRock GuardRail
+
+- 容器：Docker、LXC、第三方厂商如AWS
+
+- 编排：Kubernetes、Core、Apache Mesos、DC/OS
+
+- 服务注册与发现：Zookeeper、etcd、Consul
+
+- 脚本语言：python、ruby、shell
+
+- 日志管理：ELK、Logentries
+
+- 系统监控：Datadog、Graphite、Icinga、Nagios
+
+- 性能监控：AppDynamics、New Relic、Splunk
+
+- 压力测试：JMeter、Blaze Meter、loader.io
+
+- 预警：PagerDuty、pingdom、厂商自带如AWS SNS
+
+- HTTP加速器：Varnish
+
+- 消息总线：ActiveMQ、SQS
+
+- 应用服务器：Tomcat、JBoss
+
+- Web服务器：Apache、Nginx、IIS
+
+- 数据库：MySQL、Oracle、PostgreSQL等关系型数据库；cassandra、mongoDB、redis等NoSQL数据库
+
+- 项目管理（PM）：Jira、Asana、Taiga、Trello、Basecamp、Pivotal Tracker
+
 ### 常用UI框架
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
@@ -55,5 +97,6 @@
 - https://github.com/Alvin9999/new-pac/wiki   免费
 - https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7  gitlabel免费
 - https://github.com/itrump/ssfree/blob/master/cn/%E5%80%9A%E5%A4%A9%E5%89%91ss%E6%96%B0%E7%BD%91%E7%AB%99.md 倚天剑
+
 
 
